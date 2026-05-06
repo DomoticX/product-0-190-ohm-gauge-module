@@ -1,3 +1,5 @@
+![Info Image](info.jpg)
+
 The DomoticX 0–190 Ohm Module is a compact interface board specifically designed for driving standard analog 0–190 Ohm marine gauges commonly used for:
 
 - Fuel level gauges
@@ -96,5 +98,13 @@ Open hardware / experimental project by DomoticX.
 
 ## Where to buy?
 
-[https://domoticx.net/](https://domoticx.net/webshop/)
-[https://domoticx.net/?s=0%E2%80%93190+Ohm&post_type=producthttps://domoticx.net/?s=0%E2%80%93190+Ohm&post_type=product](https://domoticx.net/?s=0%E2%80%93190+Ohm&post_type=product)
+- [DomoticX Webshop](https://domoticx.net/webshop/)
+- [0–190 Ohm Products](https://domoticx.net/?s=0%E2%80%93190+Ohm&post_type=product)
+
+## Overview
+
+![Module Image](module.jpg)
+
+## Schematic
+
+![Schematic Image](schematic.png)
